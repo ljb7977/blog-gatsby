@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
-    title: "Jubeen's First Gatsby Site",
+    title: "Boyoung's First Gatsby Site",
   },
   plugins: [
     "gatsby-plugin-gatsby-cloud",
